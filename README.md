@@ -4,10 +4,14 @@ Stars shining in the distance, mixed together with nebula and general nothingnes
 
 # How does it look?
 
-![screenshots/screenshot1.png]
+![Sources](screenshots/screenshot1.png)
 
-![screenshots/screenshot2.png]
+![Headers](screenshots/screenshot2.png)
 
 # How can I install it?
 
 Probably just drag the `Space.xccolortheme` to your `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+
+# Font?
+
+It's [Space Mono](https://fonts.google.com/specimen/Space+Mono?category=Monospace)
